@@ -19,6 +19,7 @@
 
 ![Alt Text](https://github.com/AndraQeysa/PBO/blob/master/Praktik%202%20A.PNG)
 ![Alt Text](https://github.com/AndraQeysa/PBO/blob/master/Praktik%202%20B.PNG)
+![Alt Text](https://github.com/AndraQeysa/PBO/blob/master/OutPut%20Praktik2.PNG)
 
 # Tugas Kelompok
 
